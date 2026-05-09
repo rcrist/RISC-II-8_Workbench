@@ -1,4 +1,4 @@
-import { Cpu } from '../src/core/cpu.js';
+import { Cpu } from '../docs/src/core/cpu.js';
 
 test('cpu status returns initial values', () => {
   const cpu = new Cpu();

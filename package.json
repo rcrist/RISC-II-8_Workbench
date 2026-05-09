@@ -4,7 +4,7 @@
   "private": true,
   "description": "Modular RISC-II-8 simulator workbench",
   "scripts": {
-    "start": "npx serve public",
+    "start": "npx serve docs",
     "test": "echo \"No tests configured yet\" && exit 0"
   },
   "devDependencies": {
