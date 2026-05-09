@@ -1,0 +1,13 @@
+{
+  "name": "risc-ii-8-workbench",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Modular RISC-II-8 simulator workbench",
+  "scripts": {
+    "start": "npx serve public",
+    "test": "echo \"No tests configured yet\" && exit 0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
